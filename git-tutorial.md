@@ -3,7 +3,7 @@
 ## Основные команды Git
 
 ### Настройка
-```bash
+
 git config --global user.name "Ваше Имя"
 git config --global user.email "ваша_почта@example.com"
 
